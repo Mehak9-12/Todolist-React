@@ -65,7 +65,7 @@ useEffect(() => {
   
     return (
     <div className="list-container">
-      <h1>MY TODO LIST</h1>
+      <h1>Advanced Todo-App</h1>
 
       <TodoInput
         text={text}
